@@ -1,14 +1,17 @@
-# [Your Name] - Data Analysis Portfolio
+# Saheli Datta - Data Analysis Portfolio
 
-Welcome! This repository contains the complete template for a professional, one-page data analysis portfolio website, hosted for free on GitHub Pages.
 
-## About This Portfolio Template
+## About me
 
-This portfolio is designed to demonstrate skills in:
-- Data visualization and storytelling
-- Data modeling and analysis
-- Creating interactive, professional dashboards
-- Transforming complex data into actionable insights
+I am a Data Analyst enthusiast with 1+ years of experience turning complex data into clear, actionable insights. My journey with data began as a Data Verification Specialist, where I mastered data integrity and attention to detail before naturally transitioning into advanced analytics.
+
+Driven by curiosity and a few successful projects under my belt, I specialize in:
+
+- **Data Modeling & Analysis**: Building clean, reliable frameworks for data.
+
+- **Visualization & Storytelling**: Creating interactive, professional dashboards that tell a story.
+
+- **Impactful Insights**: Translating messy datasets into strategic business decisions.
 
 ## 🚀 Projects
 
