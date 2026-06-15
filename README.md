@@ -23,7 +23,7 @@ Driven by curiosity and a few successful projects under my belt, I specialize in
 ## 🛠️ Skills
 
 
-- **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
-- **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
-- **Tools**: List any other relevant tools like Power BI Service, specific cloud platforms, etc.
+- **Data Visualization**: Power BI, Tableau, Matplotlib.
+- **Data Analysis**: SQL, Python (Pandas), R, Excel.
+- **Data Modeling**: Power Query, DAX, Star Schema Design.
+- **Tools**: Power BI Service
