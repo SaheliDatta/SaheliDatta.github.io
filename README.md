@@ -22,7 +22,6 @@ Driven by curiosity and a few successful projects under my belt, I specialize in
 
 ## 🛠️ Skills
 
-Update the `index.html` file to reflect your personal technical skillset. The template is organized into key categories:
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
 - **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
